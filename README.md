@@ -1,4 +1,6 @@
-### Hi there 👋
+### aboba
+[![Radyhenkya's GitHub stats](https://github-readme-stats.vercel.app/api?username=radyshenkya&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **radyshenkya/radyshenkya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
