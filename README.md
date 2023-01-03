@@ -1,4 +1,24 @@
-### aboba
+# эбаут ми
+Меня зовут Родион, и я школьник в интернетах. Пытаюсь обучиться бэкэнд разработке.
+
+# май скиллс
+<!--
+<img width="64px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>
+<img width="64px" src="http://rust-lang.org/logos/rust-logo-512x512.png"/>
+<img width="64px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"/>
+<img width="64px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"/>
+<img width="64px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"/>
+<img width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
+<img width="64px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"/>
+<img width="64px" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png"/>
+<img width="64px" src="https://cdn-icons-png.flaticon.com/512/226/226772.png"/>
+<img width="64px" src="https://cdn-icons-png.flaticon.com/512/888/888879.png"/> -->
+
+| <img width="64px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/> | <img width="64px" src="http://rust-lang.org/logos/rust-logo-512x512.png"/> | <img width="64px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"/> | <img width="64px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"/> | <img width="64px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"/> | <img width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/> | <img width="64px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"/> | <img width="64px" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png"/> | <img width="64px" src="https://cdn-icons-png.flaticon.com/512/226/226772.png"/> | <img width="64px" src="https://cdn-icons-png.flaticon.com/512/888/888879.png"/> |
+|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+
+
+# май статс
 [![Radyhenkya's GitHub stats](https://github-readme-stats.vercel.app/api?username=radyshenkya&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
